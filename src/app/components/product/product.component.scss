@@ -1,0 +1,18 @@
+$teal-color: #1b5546;
+
+a {
+  text-decoration: none !important;
+}
+
+.btn-custom, .small {
+  font-size: 80%;
+  font-weight: 400;
+}
+
+.fs-90 {
+  font-size: 90%;
+}
+
+.text-teal {
+  color: $teal-color !important;
+}

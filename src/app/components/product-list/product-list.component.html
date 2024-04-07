@@ -1,0 +1,9 @@
+<div class="container d-flex justify-content-center mt-50 mb-50">
+  <div class="row">
+    <div class="col-md-12">
+      <ng-container *ngFor="let product of products; let first = first; trackBy: trackByFn">
+        <app-product [product]="product" [isFirst]="first" [isVAT]="isVAT"></app-product>
+      </ng-container>
+    </div>
+  </div>
+</div>

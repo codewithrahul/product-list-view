@@ -1,0 +1,797 @@
+{
+    "pageSizes": [
+        5,
+        10,
+        25,
+        50,
+        100
+    ],
+    "sortOptions": {
+        "default": 0,
+        "popularity": 1,
+        "part Number": 2,
+        "product Title": 3,
+        "price Ascending": 4,
+        "price Descending": 5
+    },
+    "sortedBy": 1,
+    "pageSize": 20,
+    "pageCount": 9,
+    "pageNo": 1,
+    "resultsCount": 165,
+    "results": [
+        {
+            "url": "https://web-api.sngbarratt.com/UK/products/9684a2d3-883f-4956-994a-6df02f67cd84",
+            "webProductGuid": "9684a2d3-883f-4956-994a-6df02f67cd84",
+            "partNumber": "P_BD36166",
+            "title": "Front End Assembly",
+            "description": "Complete bonnet/front end assembly, including headlamp panels, air ducts and closing panels.",
+            "applicationList": "E-Type S1 3.8 DHC|E-Type S1 3.8 FHC|E-Type S1 4.2 2+2|E-Type S1 4.2 DHC|E-Type S1 4.2 FHC",
+            "groupedApplicationList": "{\"productId\":29204,\"languages\":[{\"languageId\":1,\"Families\":[{\"familyId\":3,\"title\":\"E-Type / XKE\",\"models\":[{\"modelId\":77,\"title\":\"E-Type S1 4.2 2+2\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"},{\"modelId\":82,\"title\":\"E-Type S1 4.2 FHC\"}]}]},{\"languageId\":2,\"Families\":[{\"familyId\":3,\"title\":\"Type E / XKE\",\"models\":[{\"modelId\":77,\"title\":\"E-Type S1 4.2 2+2\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"},{\"modelId\":82,\"title\":\"E-Type S1 4.2 FHC\"}]}]},{\"languageId\":3,\"Families\":[{\"familyId\":3,\"title\":\"XKE / E-Type\",\"models\":[{\"modelId\":77,\"title\":\"E-Type S1 4.2 2+2\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"},{\"modelId\":82,\"title\":\"E-Type S1 4.2 FHC\"}]}]},{\"languageId\":4,\"Families\":[{\"familyId\":3,\"title\":\"E-Type / XKE\",\"models\":[{\"modelId\":77,\"title\":\"E-Type S1 4.2 2+2\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"},{\"modelId\":82,\"title\":\"E-Type S1 4.2 FHC\"}]}]},{\"languageId\":5,\"Families\":[{\"familyId\":3,\"title\":\"XKE / E-Type\",\"models\":[{\"modelId\":77,\"title\":\"E-Type S1 4.2 2+2\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"},{\"modelId\":82,\"title\":\"E-Type S1 4.2 FHC\"}]}]},{\"languageId\":6,\"Families\":[{\"familyId\":3,\"title\":\"E-Type / XKE\",\"models\":[{\"modelId\":77,\"title\":\"E-Type S1 4.2 2+2\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"},{\"modelId\":82,\"title\":\"E-Type S1 4.2 FHC\"}]}]},{\"languageId\":7,\"Families\":[{\"familyId\":3,\"title\":\"E-Type / XKE\",\"models\":[{\"modelId\":77,\"title\":\"E-Type S1 4.2 2+2\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"},{\"modelId\":82,\"title\":\"E-Type S1 4.2 FHC\"}]}]}]}",
+            "imageUrl": "https://cdn.sngbarratt.com/products/250/b291ab1c-2ff7-420c-89cd-0004d96eb43f.png",
+            "hasAlternatives": true,
+            "branchProducts": [
+                {
+                    "specialOffer": null,
+                    "id": "a49d0b4a-2233-448e-a72d-1b60e9c0eb0d",
+                    "retailPrice": 9338.71,
+                    "retailPriceWithTax": 11206.45,
+                    "unitPrice": 9338.71,
+                    "surcharge": 0,
+                    "surchargeWithTax": 0,
+                    "taxPrice": 11206.45,
+                    "status": "SOO",
+                    "branch_Id": 1,
+                    "siteCode": "UK",
+                    "coreProduct": false
+                }
+            ],
+            "supersession": [],
+            "language": 1,
+            "brand": {
+                "name": "Jaguar",
+                "logoUrl": ""
+            },
+            "type": {
+                "name": "Genuine",
+                "description": "Parts supplied by original manufacturer"
+            },
+            "recommendedPart": true,
+            "marketingNotes": null,
+            "nodeInfo": []
+        },
+        {
+            "url": "https://web-api.sngbarratt.com/UK/products/4ba4c78e-f0a9-4c35-b5df-c5a0b78dfe4d",
+            "webProductGuid": "4ba4c78e-f0a9-4c35-b5df-c5a0b78dfe4d",
+            "partNumber": "P_BD36166FK",
+            "title": "Bonnet Hardware Kit",
+            "description": "Hardware/fixing kit for bonnet and mudguard assembly",
+            "applicationList": "E-Type S2 2+2|E-Type S1 3.8 DHC|E-Type S1 4.2 FHC|E-Type S1.5 2+2|E-Type S1.5 FHC|E-Type S1 4.2 2+2|E-Type S2 DHC|E-Type S3 Roadster|E-Type S1 4.2 DHC|E-Type S1 3.8 FHC|E-Type S1.5 DHC",
+            "groupedApplicationList": "{ \"productId\": 29209, \"languages\": [{ \"languageId\": 2, \"Families\": [{ \"familyId\":3,\"title\": \"Type E / XKE\",\"models\": [{ \"modelId\":13, \"title\": \"E-Type S3 Roadster\" },{ \"modelId\":74, \"title\": \"E-Type S2 2+2\" },{ \"modelId\":75, \"title\": \"E-Type S1.5 FHC\" },{ \"modelId\":76, \"title\": \"E-Type S1.5 DHC\" },{ \"modelId\":77, \"title\": \"E-Type S1 4.2 2+2\" },{ \"modelId\":78, \"title\": \"E-Type S1.5 2+2\" },{ \"modelId\":79, \"title\": \"E-Type S1 3.8 DHC\" },{ \"modelId\":80, \"title\": \"E-Type S1 3.8 FHC\" },{ \"modelId\":81, \"title\": \"E-Type S1 4.2 DHC\" },{ \"modelId\":82, \"title\": \"E-Type S1 4.2 FHC\" },{ \"modelId\":83, \"title\": \"E-Type S2 DHC\" }]}]} ,{ \"languageId\": 1, \"Families\": [{ \"familyId\":3,\"title\": \"E-Type / XKE\",\"models\": [{ \"modelId\":13, \"title\": \"E-Type S3 Roadster\" },{ \"modelId\":74, \"title\": \"E-Type S2 2+2\" },{ \"modelId\":75, \"title\": \"E-Type S1.5 FHC\" },{ \"modelId\":76, \"title\": \"E-Type S1.5 DHC\" },{ \"modelId\":77, \"title\": \"E-Type S1 4.2 2+2\" },{ \"modelId\":78, \"title\": \"E-Type S1.5 2+2\" },{ \"modelId\":79, \"title\": \"E-Type S1 3.8 DHC\" },{ \"modelId\":80, \"title\": \"E-Type S1 3.8 FHC\" },{ \"modelId\":81, \"title\": \"E-Type S1 4.2 DHC\" },{ \"modelId\":82, \"title\": \"E-Type S1 4.2 FHC\" },{ \"modelId\":83, \"title\": \"E-Type S2 DHC\" }]}]} ,{ \"languageId\": 3, \"Families\": [{ \"familyId\":3,\"title\": \"XKE / E-Type\",\"models\": [{ \"modelId\":13, \"title\": \"E-Type S3 Roadster\" },{ \"modelId\":74, \"title\": \"E-Type S2 2+2\" },{ \"modelId\":75, \"title\": \"E-Type S1.5 FHC\" },{ \"modelId\":76, \"title\": \"E-Type S1.5 DHC\" },{ \"modelId\":77, \"title\": \"E-Type S1 4.2 2+2\" },{ \"modelId\":78, \"title\": \"E-Type S1.5 2+2\" },{ \"modelId\":79, \"title\": \"E-Type S1 3.8 DHC\" },{ \"modelId\":80, \"title\": \"E-Type S1 3.8 FHC\" },{ \"modelId\":81, \"title\": \"E-Type S1 4.2 DHC\" },{ \"modelId\":82, \"title\": \"E-Type S1 4.2 FHC\" },{ \"modelId\":83, \"title\": \"E-Type S2 DHC\" }]}]} ,{ \"languageId\": 4, \"Families\": [{ \"familyId\":3,\"title\": \"E-Type / XKE\",\"models\": [{ \"modelId\":13, \"title\": \"E-Type S3 Roadster\" },{ \"modelId\":74, \"title\": \"E-Type S2 2+2\" },{ \"modelId\":75, \"title\": \"E-Type S1.5 FHC\" },{ \"modelId\":76, \"title\": \"E-Type S1.5 DHC\" },{ \"modelId\":77, \"title\": \"E-Type S1 4.2 2+2\" },{ \"modelId\":78, \"title\": \"E-Type S1.5 2+2\" },{ \"modelId\":79, \"title\": \"E-Type S1 3.8 DHC\" },{ \"modelId\":80, \"title\": \"E-Type S1 3.8 FHC\" },{ \"modelId\":81, \"title\": \"E-Type S1 4.2 DHC\" },{ \"modelId\":82, \"title\": \"E-Type S1 4.2 FHC\" },{ \"modelId\":83, \"title\": \"E-Type S2 DHC\" }]}]} ,{ \"languageId\": 5, \"Families\": [{ \"familyId\":3,\"title\": \"XKE / E-Type\",\"models\": [{ \"modelId\":13, \"title\": \"E-Type Roadster\" },{ \"modelId\":74, \"title\": \"E-Type S2 2+2\" },{ \"modelId\":75, \"title\": \"E-Type S1.5 FHC\" },{ \"modelId\":76, \"title\": \"E-Type S1.5 DHC\" },{ \"modelId\":77, \"title\": \"E-Type S1 4.2 2+2\" },{ \"modelId\":78, \"title\": \"E-Type S1.5 2+2\" },{ \"modelId\":79, \"title\": \"E-Type S1 3.8 DHC\" },{ \"modelId\":80, \"title\": \"E-Type S1 3.8 FHC\" },{ \"modelId\":81, \"title\": \"E-Type S1 4.2 DHC\" },{ \"modelId\":82, \"title\": \"E-Type S1 4.2 FHC\" },{ \"modelId\":83, \"title\": \"E-Type S2 DHC\" }]}]} ,{ \"languageId\": 7, \"Families\": [{ \"familyId\":3,\"title\": \"E-Type / XKE\",\"models\": [{ \"modelId\":13, \"title\": \"E-Type S3 Roadster\" },{ \"modelId\":74, \"title\": \"E-Type S2 2+2\" },{ \"modelId\":75, \"title\": \"E-Type S1.5 FHC\" },{ \"modelId\":76, \"title\": \"E-Type S1.5 DHC\" },{ \"modelId\":77, \"title\": \"E-Type S1 4.2 2+2\" },{ \"modelId\":78, \"title\": \"E-Type S1.5 2+2\" },{ \"modelId\":79, \"title\": \"E-Type S1 3.8 DHC\" },{ \"modelId\":80, \"title\": \"E-Type S1 3.8 FHC\" },{ \"modelId\":81, \"title\": \"E-Type S1 4.2 DHC\" },{ \"modelId\":82, \"title\": \"E-Type S1 4.2 FHC\" },{ \"modelId\":83, \"title\": \"E-Type S2 DHC\" }]}]} ,{ \"languageId\": 6, \"Families\": [{ \"familyId\":3,\"title\": \"E-Type / XKE\",\"models\": [{ \"modelId\":13, \"title\": \"E-Type S3 Roadster\" },{ \"modelId\":74, \"title\": \"E-Type S2 2+2\" },{ \"modelId\":75, \"title\": \"E-Type S1.5 FHC\" },{ \"modelId\":76, \"title\": \"E-Type S1.5 DHC\" },{ \"modelId\":77, \"title\": \"E-Type S1 4.2 2+2\" },{ \"modelId\":78, \"title\": \"E-Type S1.5 2+2\" },{ \"modelId\":79, \"title\": \"E-Type S1 3.8 DHC\" },{ \"modelId\":80, \"title\": \"E-Type S1 3.8 FHC\" },{ \"modelId\":81, \"title\": \"E-Type S1 4.2 DHC\" },{ \"modelId\":82, \"title\": \"E-Type S1 4.2 FHC\" },{ \"modelId\":83, \"title\": \"E-Type S2 DHC\" }]}]} ]}",
+            "imageUrl": "https://cdn.sngbarratt.com/products/250/1d8fe937-7b9d-420f-9002-2b5a81b2289a.png",
+            "hasAlternatives": true,
+            "branchProducts": [
+                {
+                    "specialOffer": null,
+                    "id": "a8e6f868-4864-44e4-a872-3320f2d3759f",
+                    "retailPrice": 71.71,
+                    "retailPriceWithTax": 86.05,
+                    "unitPrice": 71.71,
+                    "surcharge": 0,
+                    "surchargeWithTax": 0,
+                    "taxPrice": 86.05,
+                    "status": "LOW",
+                    "branch_Id": 1,
+                    "siteCode": "UK",
+                    "coreProduct": false
+                }
+            ],
+            "supersession": [],
+            "language": 1,
+            "brand": null,
+            "type": {
+                "name": "Aftermarket Reproduction Part",
+                "description": "High quality aftermarket/reproduction alternative."
+            },
+            "recommendedPart": null,
+            "marketingNotes": null,
+            "nodeInfo": []
+        },
+        {
+            "url": "https://web-api.sngbarratt.com/UK/products/574a2db2-ef5d-4499-9787-066c8de8a4bc",
+            "webProductGuid": "574a2db2-ef5d-4499-9787-066c8de8a4bc",
+            "partNumber": "P_BD15188",
+            "title": "Rear End Assembly",
+            "description": null,
+            "applicationList": "E-Type S1 3.8 DHC|E-Type S1 3.8 FHC|E-Type S1 4.2 DHC|E-Type S1.5 2+2|E-Type S1.5 DHC",
+            "groupedApplicationList": "{\"productId\":25182,\"languages\":[{\"languageId\":1,\"Families\":[{\"familyId\":3,\"title\":\"E-Type / XKE\",\"models\":[{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":78,\"title\":\"E-Type S1.5 2+2\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"}]}]},{\"languageId\":2,\"Families\":[{\"familyId\":3,\"title\":\"Type E / XKE\",\"models\":[{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":78,\"title\":\"E-Type S1.5 2+2\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"}]}]},{\"languageId\":3,\"Families\":[{\"familyId\":3,\"title\":\"XKE / E-Type\",\"models\":[{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":78,\"title\":\"E-Type S1.5 2+2\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"}]}]},{\"languageId\":4,\"Families\":[{\"familyId\":3,\"title\":\"E-Type / XKE\",\"models\":[{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":78,\"title\":\"E-Type S1.5 2+2\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"}]}]},{\"languageId\":5,\"Families\":[{\"familyId\":3,\"title\":\"XKE / E-Type\",\"models\":[{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":78,\"title\":\"E-Type S1.5 2+2\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"}]}]},{\"languageId\":6,\"Families\":[{\"familyId\":3,\"title\":\"E-Type / XKE\",\"models\":[{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":78,\"title\":\"E-Type S1.5 2+2\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"}]}]},{\"languageId\":7,\"Families\":[{\"familyId\":3,\"title\":\"E-Type / XKE\",\"models\":[{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":78,\"title\":\"E-Type S1.5 2+2\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"}]}]}]}",
+            "imageUrl": "https://cdn.sngbarratt.com/products/250/cbc8db1f-fc82-4385-b57d-21a5cdfe4ba3.png",
+            "hasAlternatives": false,
+            "branchProducts": [
+                {
+                    "specialOffer": null,
+                    "id": "76beb96c-9baa-4cdb-8d33-b57781ac02b9",
+                    "retailPrice": 2009.43,
+                    "retailPriceWithTax": 2411.32,
+                    "unitPrice": 2009.43,
+                    "surcharge": 0,
+                    "surchargeWithTax": 0,
+                    "taxPrice": 2411.32,
+                    "status": "SOO",
+                    "branch_Id": 1,
+                    "siteCode": "UK",
+                    "coreProduct": false
+                }
+            ],
+            "supersession": [],
+            "language": 1,
+            "brand": null,
+            "type": {
+                "name": "Aftermarket Reproduction Part",
+                "description": "High quality aftermarket/reproduction alternative."
+            },
+            "recommendedPart": null,
+            "marketingNotes": null,
+            "nodeInfo": []
+        },
+        {
+            "url": "https://web-api.sngbarratt.com/UK/products/f0e6a192-ee31-48cd-908e-a631eea75c39",
+            "webProductGuid": "f0e6a192-ee31-48cd-908e-a631eea75c39",
+            "partNumber": "P_BD22662",
+            "title": "Door Check Strap",
+            "description": "Check Arm Assembly For Doors for SWB Models.",
+            "applicationList": "E-Type S1 3.8 DHC|E-Type S1 3.8 FHC|E-Type S1 4.2 DHC|E-Type S1 4.2 FHC|E-Type S1.5 DHC|E-Type S1.5 FHC|E-Type S2 DHC|E-Type S2 FHC",
+            "groupedApplicationList": "{\"productId\":27058,\"languages\":[{\"languageId\":1,\"Families\":[{\"familyId\":3,\"title\":\"E-Type / XKE\",\"models\":[{\"modelId\":75,\"title\":\"E-Type S1.5 FHC\"},{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"},{\"modelId\":82,\"title\":\"E-Type S1 4.2 FHC\"},{\"modelId\":83,\"title\":\"E-Type S2 DHC\"},{\"modelId\":84,\"title\":\"E-Type S2 FHC\"}]}]},{\"languageId\":2,\"Families\":[{\"familyId\":3,\"title\":\"Type E / XKE\",\"models\":[{\"modelId\":75,\"title\":\"E-Type S1.5 FHC\"},{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"},{\"modelId\":82,\"title\":\"E-Type S1 4.2 FHC\"},{\"modelId\":83,\"title\":\"E-Type S2 DHC\"},{\"modelId\":84,\"title\":\"E-Type S2 FHC\"}]}]},{\"languageId\":3,\"Families\":[{\"familyId\":3,\"title\":\"XKE / E-Type\",\"models\":[{\"modelId\":75,\"title\":\"E-Type S1.5 FHC\"},{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"},{\"modelId\":82,\"title\":\"E-Type S1 4.2 FHC\"},{\"modelId\":83,\"title\":\"E-Type S2 DHC\"},{\"modelId\":84,\"title\":\"E-Type S2 FHC\"}]}]},{\"languageId\":4,\"Families\":[{\"familyId\":3,\"title\":\"E-Type / XKE\",\"models\":[{\"modelId\":75,\"title\":\"E-Type S1.5 FHC\"},{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"},{\"modelId\":82,\"title\":\"E-Type S1 4.2 FHC\"},{\"modelId\":83,\"title\":\"E-Type S2 DHC\"},{\"modelId\":84,\"title\":\"E-Type S2 FHC\"}]}]},{\"languageId\":5,\"Families\":[{\"familyId\":3,\"title\":\"XKE / E-Type\",\"models\":[{\"modelId\":75,\"title\":\"E-Type S1.5 FHC\"},{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"},{\"modelId\":82,\"title\":\"E-Type S1 4.2 FHC\"},{\"modelId\":83,\"title\":\"E-Type S2 DHC\"},{\"modelId\":84,\"title\":\"E-Type S2 FHC\"}]}]},{\"languageId\":6,\"Families\":[{\"familyId\":3,\"title\":\"E-Type / XKE\",\"models\":[{\"modelId\":75,\"title\":\"E-Type S1.5 FHC\"},{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"},{\"modelId\":82,\"title\":\"E-Type S1 4.2 FHC\"},{\"modelId\":83,\"title\":\"E-Type S2 DHC\"},{\"modelId\":84,\"title\":\"E-Type S2 FHC\"}]}]},{\"languageId\":7,\"Families\":[{\"familyId\":3,\"title\":\"E-Type / XKE\",\"models\":[{\"modelId\":75,\"title\":\"E-Type S1.5 FHC\"},{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"},{\"modelId\":82,\"title\":\"E-Type S1 4.2 FHC\"},{\"modelId\":83,\"title\":\"E-Type S2 DHC\"},{\"modelId\":84,\"title\":\"E-Type S2 FHC\"}]}]}]}",
+            "imageUrl": "https://cdn.sngbarratt.com/products/250/829aec3c-6b45-48c9-ae94-6abf7c9a0c00.png",
+            "hasAlternatives": true,
+            "branchProducts": [
+                {
+                    "specialOffer": null,
+                    "id": "0afe2bd6-2448-49a8-a2f5-343f6b9baaae",
+                    "retailPrice": 23.18,
+                    "retailPriceWithTax": 27.82,
+                    "unitPrice": 23.18,
+                    "surcharge": 0,
+                    "surchargeWithTax": 0,
+                    "taxPrice": 27.82,
+                    "status": "LOW",
+                    "branch_Id": 1,
+                    "siteCode": "UK",
+                    "coreProduct": false
+                }
+            ],
+            "supersession": [],
+            "language": 1,
+            "brand": null,
+            "type": {
+                "name": "Aftermarket Reproduction Part",
+                "description": "High quality aftermarket/reproduction alternative."
+            },
+            "recommendedPart": null,
+            "marketingNotes": null,
+            "nodeInfo": []
+        },
+        {
+            "url": "https://web-api.sngbarratt.com/UK/products/1d6e1fd7-d385-4e3d-bac4-1a2865e2f7e3",
+            "webProductGuid": "1d6e1fd7-d385-4e3d-bac4-1a2865e2f7e3",
+            "partNumber": "P_BD15219",
+            "title": "Rear Tonneau Panel With Drip Channel",
+            "description": null,
+            "applicationList": "E-Type S1 3.8 DHC|E-Type S1.5 DHC|E-Type S1 4.2 DHC",
+            "groupedApplicationList": "{ \"productId\": 25200, \"languages\": [{ \"languageId\": 3, \"Families\": [{ \"familyId\":3,\"title\": \"XKE / E-Type\",\"models\": [{ \"modelId\":76, \"title\": \"E-Type S1.5 DHC\" },{ \"modelId\":79, \"title\": \"E-Type S1 3.8 DHC\" },{ \"modelId\":81, \"title\": \"E-Type S1 4.2 DHC\" }]}]} ,{ \"languageId\": 2, \"Families\": [{ \"familyId\":3,\"title\": \"Type E / XKE\",\"models\": [{ \"modelId\":76, \"title\": \"E-Type S1.5 DHC\" },{ \"modelId\":79, \"title\": \"E-Type S1 3.8 DHC\" },{ \"modelId\":81, \"title\": \"E-Type S1 4.2 DHC\" }]}]} ,{ \"languageId\": 6, \"Families\": [{ \"familyId\":3,\"title\": \"E-Type / XKE\",\"models\": [{ \"modelId\":76, \"title\": \"E-Type S1.5 DHC\" },{ \"modelId\":79, \"title\": \"E-Type S1 3.8 DHC\" },{ \"modelId\":81, \"title\": \"E-Type S1 4.2 DHC\" }]}]} ,{ \"languageId\": 1, \"Families\": [{ \"familyId\":3,\"title\": \"E-Type / XKE\",\"models\": [{ \"modelId\":76, \"title\": \"E-Type S1.5 DHC\" },{ \"modelId\":79, \"title\": \"E-Type S1 3.8 DHC\" },{ \"modelId\":81, \"title\": \"E-Type S1 4.2 DHC\" }]}]} ,{ \"languageId\": 5, \"Families\": [{ \"familyId\":3,\"title\": \"XKE / E-Type\",\"models\": [{ \"modelId\":76, \"title\": \"E-Type S1.5 DHC\" },{ \"modelId\":79, \"title\": \"E-Type S1 3.8 DHC\" },{ \"modelId\":81, \"title\": \"E-Type S1 4.2 DHC\" }]}]} ,{ \"languageId\": 4, \"Families\": [{ \"familyId\":3,\"title\": \"E-Type / XKE\",\"models\": [{ \"modelId\":76, \"title\": \"E-Type S1.5 DHC\" },{ \"modelId\":79, \"title\": \"E-Type S1 3.8 DHC\" },{ \"modelId\":81, \"title\": \"E-Type S1 4.2 DHC\" }]}]} ,{ \"languageId\": 7, \"Families\": [{ \"familyId\":3,\"title\": \"E-Type / XKE\",\"models\": [{ \"modelId\":76, \"title\": \"E-Type S1.5 DHC\" },{ \"modelId\":79, \"title\": \"E-Type S1 3.8 DHC\" },{ \"modelId\":81, \"title\": \"E-Type S1 4.2 DHC\" }]}]} ]}",
+            "imageUrl": "https://cdn.sngbarratt.com/products/250/2f296200-8559-44e2-8719-d41dca191e3e.png",
+            "hasAlternatives": false,
+            "branchProducts": [
+                {
+                    "specialOffer": null,
+                    "id": "836abad5-06c0-4868-b3a5-09ffa442fd49",
+                    "retailPrice": 309.61,
+                    "retailPriceWithTax": 371.53,
+                    "unitPrice": 309.61,
+                    "surcharge": 0,
+                    "surchargeWithTax": 0,
+                    "taxPrice": 371.53,
+                    "status": "STK",
+                    "branch_Id": 1,
+                    "siteCode": "UK",
+                    "coreProduct": false
+                }
+            ],
+            "supersession": [],
+            "language": 1,
+            "brand": null,
+            "type": {
+                "name": "Aftermarket Reproduction Part",
+                "description": "High quality aftermarket/reproduction alternative."
+            },
+            "recommendedPart": null,
+            "marketingNotes": null,
+            "nodeInfo": []
+        },
+        {
+            "url": "https://web-api.sngbarratt.com/UK/products/cd5e20ad-6a49-435a-83df-80bbaace3915",
+            "webProductGuid": "cd5e20ad-6a49-435a-83df-80bbaace3915",
+            "partNumber": "P_BD15192",
+            "title": "Rear Wing LH",
+            "description": null,
+            "applicationList": "E-Type S1 3.8 DHC|E-Type S1 3.8 FHC|E-Type S1 4.2 DHC|E-Type S1.5 DHC|E-Type S3 Roadster",
+            "groupedApplicationList": "{\"productId\":25192,\"languages\":[{\"languageId\":1,\"Families\":[{\"familyId\":3,\"title\":\"E-Type / XKE\",\"models\":[{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"},{\"modelId\":13,\"title\":\"E-Type S3 Roadster\"}]}]},{\"languageId\":2,\"Families\":[{\"familyId\":3,\"title\":\"Type E / XKE\",\"models\":[{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"},{\"modelId\":13,\"title\":\"E-Type S3 Roadster\"}]}]},{\"languageId\":3,\"Families\":[{\"familyId\":3,\"title\":\"XKE / E-Type\",\"models\":[{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"},{\"modelId\":13,\"title\":\"E-Type S3 Roadster\"}]}]},{\"languageId\":4,\"Families\":[{\"familyId\":3,\"title\":\"E-Type / XKE\",\"models\":[{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"},{\"modelId\":13,\"title\":\"E-Type S3 Roadster\"}]}]},{\"languageId\":5,\"Families\":[{\"familyId\":3,\"title\":\"XKE / E-Type\",\"models\":[{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"},{\"modelId\":13,\"title\":\"E-Type Roadster\"}]}]},{\"languageId\":6,\"Families\":[{\"familyId\":3,\"title\":\"E-Type / XKE\",\"models\":[{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"},{\"modelId\":13,\"title\":\"E-Type S3 Roadster\"}]}]},{\"languageId\":7,\"Families\":[{\"familyId\":3,\"title\":\"E-Type / XKE\",\"models\":[{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"},{\"modelId\":13,\"title\":\"E-Type S3 Roadster\"}]}]}]}",
+            "imageUrl": "https://cdn.sngbarratt.com/products/250/58206504-f1a9-4cba-9e3d-3c8fb8c99a10.png",
+            "hasAlternatives": true,
+            "branchProducts": [
+                {
+                    "specialOffer": null,
+                    "id": "b60164be-4e0b-4b82-a701-535ba3b00bb3",
+                    "retailPrice": 1534.59,
+                    "retailPriceWithTax": 1841.51,
+                    "unitPrice": 1534.59,
+                    "surcharge": 0,
+                    "surchargeWithTax": 0,
+                    "taxPrice": 1841.51,
+                    "status": "SOO",
+                    "branch_Id": 1,
+                    "siteCode": "UK",
+                    "coreProduct": false
+                }
+            ],
+            "supersession": [],
+            "language": 1,
+            "brand": {
+                "name": "Jaguar",
+                "logoUrl": ""
+            },
+            "type": {
+                "name": "Genuine",
+                "description": "Parts supplied by original manufacturer"
+            },
+            "recommendedPart": null,
+            "marketingNotes": null,
+            "nodeInfo": []
+        },
+        {
+            "url": "https://web-api.sngbarratt.com/UK/products/3d3c5cab-3db2-40c3-8d7a-241b06fdad7d",
+            "webProductGuid": "3d3c5cab-3db2-40c3-8d7a-241b06fdad7d",
+            "partNumber": "P_SNG014/73ARH",
+            "title": "Full Floorpan Assembly inc Radius Arm Cup - Right hand",
+            "description": "Full front/rear floorpan assembly including radius arm cup, right hand - short wheel base footwell models",
+            "applicationList": "E-Type S1 3.8 DHC|E-Type S1 3.8 FHC|E-Type S1 4.2 DHC|E-Type S1 4.2 FHC|E-Type S1.5 DHC|E-Type S1.5 FHC|E-Type S2 DHC|E-Type S2 FHC",
+            "groupedApplicationList": "{\"productId\":262309,\"languages\":[{\"languageId\":1,\"Families\":[{\"familyId\":3,\"title\":\"E-Type / XKE\",\"models\":[{\"modelId\":75,\"title\":\"E-Type S1.5 FHC\"},{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"},{\"modelId\":82,\"title\":\"E-Type S1 4.2 FHC\"},{\"modelId\":83,\"title\":\"E-Type S2 DHC\"},{\"modelId\":84,\"title\":\"E-Type S2 FHC\"}]}]},{\"languageId\":2,\"Families\":[{\"familyId\":3,\"title\":\"Type E / XKE\",\"models\":[{\"modelId\":75,\"title\":\"E-Type S1.5 FHC\"},{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"},{\"modelId\":82,\"title\":\"E-Type S1 4.2 FHC\"},{\"modelId\":83,\"title\":\"E-Type S2 DHC\"},{\"modelId\":84,\"title\":\"E-Type S2 FHC\"}]}]},{\"languageId\":3,\"Families\":[{\"familyId\":3,\"title\":\"XKE / E-Type\",\"models\":[{\"modelId\":75,\"title\":\"E-Type S1.5 FHC\"},{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"},{\"modelId\":82,\"title\":\"E-Type S1 4.2 FHC\"},{\"modelId\":83,\"title\":\"E-Type S2 DHC\"},{\"modelId\":84,\"title\":\"E-Type S2 FHC\"}]}]},{\"languageId\":4,\"Families\":[{\"familyId\":3,\"title\":\"E-Type / XKE\",\"models\":[{\"modelId\":75,\"title\":\"E-Type S1.5 FHC\"},{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"},{\"modelId\":82,\"title\":\"E-Type S1 4.2 FHC\"},{\"modelId\":83,\"title\":\"E-Type S2 DHC\"},{\"modelId\":84,\"title\":\"E-Type S2 FHC\"}]}]},{\"languageId\":5,\"Families\":[{\"familyId\":3,\"title\":\"XKE / E-Type\",\"models\":[{\"modelId\":75,\"title\":\"E-Type S1.5 FHC\"},{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"},{\"modelId\":82,\"title\":\"E-Type S1 4.2 FHC\"},{\"modelId\":83,\"title\":\"E-Type S2 DHC\"},{\"modelId\":84,\"title\":\"E-Type S2 FHC\"}]}]},{\"languageId\":6,\"Families\":[{\"familyId\":3,\"title\":\"E-Type / XKE\",\"models\":[{\"modelId\":75,\"title\":\"E-Type S1.5 FHC\"},{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"},{\"modelId\":82,\"title\":\"E-Type S1 4.2 FHC\"},{\"modelId\":83,\"title\":\"E-Type S2 DHC\"},{\"modelId\":84,\"title\":\"E-Type S2 FHC\"}]}]},{\"languageId\":7,\"Families\":[{\"familyId\":3,\"title\":\"E-Type / XKE\",\"models\":[{\"modelId\":75,\"title\":\"E-Type S1.5 FHC\"},{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"},{\"modelId\":82,\"title\":\"E-Type S1 4.2 FHC\"},{\"modelId\":83,\"title\":\"E-Type S2 DHC\"},{\"modelId\":84,\"title\":\"E-Type S2 FHC\"}]}]}]}",
+            "imageUrl": "https://cdn.sngbarratt.com/products/250/8596a949-18ed-499b-b0b0-6cf0d42cdbe8.png",
+            "hasAlternatives": false,
+            "branchProducts": [
+                {
+                    "specialOffer": null,
+                    "id": "0dfff3b0-ac88-4e00-a35b-1000100a36bc",
+                    "retailPrice": 262.47,
+                    "retailPriceWithTax": 314.96,
+                    "unitPrice": 262.47,
+                    "surcharge": 0,
+                    "surchargeWithTax": 0,
+                    "taxPrice": 314.96,
+                    "status": "LOW",
+                    "branch_Id": 1,
+                    "siteCode": "UK",
+                    "coreProduct": false
+                }
+            ],
+            "supersession": [],
+            "language": 1,
+            "brand": {
+                "name": "SNG Barratt",
+                "logoUrl": "https://cdn.sngbarratt.com/images/providers/madebysng.png"
+            },
+            "type": {
+                "name": "Premium Aftermarket",
+                "description": "Premium Aftermarket"
+            },
+            "recommendedPart": null,
+            "marketingNotes": "",
+            "nodeInfo": []
+        },
+        {
+            "url": "https://web-api.sngbarratt.com/UK/products/1f043155-8ced-4e56-9987-9b90f6ccffa7",
+            "webProductGuid": "1f043155-8ced-4e56-9987-9b90f6ccffa7",
+            "partNumber": "P_SNG014LH",
+            "title": "Full Floorpan Assembly without Radius Arm Cup - Left Hand",
+            "description": "Full front/rear floorpan assembly without radius arm cup, left hand - short wheel base footwell models",
+            "applicationList": "E-Type S1 3.8 DHC|E-Type S1 3.8 FHC|E-Type S1 4.2 DHC|E-Type S1 4.2 FHC|E-Type S1.5 DHC|E-Type S1.5 FHC|E-Type S2 DHC|E-Type S2 FHC",
+            "groupedApplicationList": "{\"productId\":262310,\"languages\":[{\"languageId\":1,\"Families\":[{\"familyId\":3,\"title\":\"E-Type / XKE\",\"models\":[{\"modelId\":75,\"title\":\"E-Type S1.5 FHC\"},{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"},{\"modelId\":82,\"title\":\"E-Type S1 4.2 FHC\"},{\"modelId\":83,\"title\":\"E-Type S2 DHC\"},{\"modelId\":84,\"title\":\"E-Type S2 FHC\"}]}]},{\"languageId\":2,\"Families\":[{\"familyId\":3,\"title\":\"Type E / XKE\",\"models\":[{\"modelId\":75,\"title\":\"E-Type S1.5 FHC\"},{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"},{\"modelId\":82,\"title\":\"E-Type S1 4.2 FHC\"},{\"modelId\":83,\"title\":\"E-Type S2 DHC\"},{\"modelId\":84,\"title\":\"E-Type S2 FHC\"}]}]},{\"languageId\":3,\"Families\":[{\"familyId\":3,\"title\":\"XKE / E-Type\",\"models\":[{\"modelId\":75,\"title\":\"E-Type S1.5 FHC\"},{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"},{\"modelId\":82,\"title\":\"E-Type S1 4.2 FHC\"},{\"modelId\":83,\"title\":\"E-Type S2 DHC\"},{\"modelId\":84,\"title\":\"E-Type S2 FHC\"}]}]},{\"languageId\":4,\"Families\":[{\"familyId\":3,\"title\":\"E-Type / XKE\",\"models\":[{\"modelId\":75,\"title\":\"E-Type S1.5 FHC\"},{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"},{\"modelId\":82,\"title\":\"E-Type S1 4.2 FHC\"},{\"modelId\":83,\"title\":\"E-Type S2 DHC\"},{\"modelId\":84,\"title\":\"E-Type S2 FHC\"}]}]},{\"languageId\":5,\"Families\":[{\"familyId\":3,\"title\":\"XKE / E-Type\",\"models\":[{\"modelId\":75,\"title\":\"E-Type S1.5 FHC\"},{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"},{\"modelId\":82,\"title\":\"E-Type S1 4.2 FHC\"},{\"modelId\":83,\"title\":\"E-Type S2 DHC\"},{\"modelId\":84,\"title\":\"E-Type S2 FHC\"}]}]},{\"languageId\":6,\"Families\":[{\"familyId\":3,\"title\":\"E-Type / XKE\",\"models\":[{\"modelId\":75,\"title\":\"E-Type S1.5 FHC\"},{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"},{\"modelId\":82,\"title\":\"E-Type S1 4.2 FHC\"},{\"modelId\":83,\"title\":\"E-Type S2 DHC\"},{\"modelId\":84,\"title\":\"E-Type S2 FHC\"}]}]},{\"languageId\":7,\"Families\":[{\"familyId\":3,\"title\":\"E-Type / XKE\",\"models\":[{\"modelId\":75,\"title\":\"E-Type S1.5 FHC\"},{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"},{\"modelId\":82,\"title\":\"E-Type S1 4.2 FHC\"},{\"modelId\":83,\"title\":\"E-Type S2 DHC\"},{\"modelId\":84,\"title\":\"E-Type S2 FHC\"}]}]}]}",
+            "imageUrl": "https://cdn.sngbarratt.com/products/250/12a52373-ec6c-4925-8364-fcf4c3fc261d.png",
+            "hasAlternatives": false,
+            "branchProducts": [
+                {
+                    "specialOffer": null,
+                    "id": "e6272058-cd8b-43fa-a34b-c1cc0857fb16",
+                    "retailPrice": 212.72,
+                    "retailPriceWithTax": 255.26,
+                    "unitPrice": 212.72,
+                    "surcharge": 0,
+                    "surchargeWithTax": 0,
+                    "taxPrice": 255.26,
+                    "status": "STK",
+                    "branch_Id": 1,
+                    "siteCode": "UK",
+                    "coreProduct": false
+                }
+            ],
+            "supersession": [],
+            "language": 1,
+            "brand": {
+                "name": "SNG Barratt",
+                "logoUrl": "https://cdn.sngbarratt.com/images/providers/madebysng.png"
+            },
+            "type": {
+                "name": "Premium Aftermarket",
+                "description": "Premium Aftermarket"
+            },
+            "recommendedPart": null,
+            "marketingNotes": null,
+            "nodeInfo": []
+        },
+        {
+            "url": "https://web-api.sngbarratt.com/UK/products/04151313-4dfd-4edc-a66f-421fa13e172d",
+            "webProductGuid": "04151313-4dfd-4edc-a66f-421fa13e172d",
+            "partNumber": "P_BD24851",
+            "title": "Door Assembly LH",
+            "description": null,
+            "applicationList": "E-Type S1 3.8 DHC|E-Type S1 4.2 DHC|E-Type S1.5 DHC",
+            "groupedApplicationList": "{\"productId\":27244,\"languages\":[{\"languageId\":1,\"Families\":[{\"familyId\":3,\"title\":\"E-Type / XKE\",\"models\":[{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"}]}]},{\"languageId\":2,\"Families\":[{\"familyId\":3,\"title\":\"Type E / XKE\",\"models\":[{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"}]}]},{\"languageId\":3,\"Families\":[{\"familyId\":3,\"title\":\"XKE / E-Type\",\"models\":[{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"}]}]},{\"languageId\":4,\"Families\":[{\"familyId\":3,\"title\":\"E-Type / XKE\",\"models\":[{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"}]}]},{\"languageId\":5,\"Families\":[{\"familyId\":3,\"title\":\"XKE / E-Type\",\"models\":[{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"}]}]},{\"languageId\":6,\"Families\":[{\"familyId\":3,\"title\":\"E-Type / XKE\",\"models\":[{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"}]}]},{\"languageId\":7,\"Families\":[{\"familyId\":3,\"title\":\"E-Type / XKE\",\"models\":[{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"}]}]}]}",
+            "imageUrl": "https://cdn.sngbarratt.com/products/250/09bd1e5a-ff30-496b-acd3-d5e1d8bbe97b.png",
+            "hasAlternatives": true,
+            "branchProducts": [
+                {
+                    "specialOffer": null,
+                    "id": "e7b9f1a0-f053-47cd-b005-a95f173f163f",
+                    "retailPrice": 2206.47,
+                    "retailPriceWithTax": 2647.76,
+                    "unitPrice": 2206.47,
+                    "surcharge": 0,
+                    "surchargeWithTax": 0,
+                    "taxPrice": 2647.76,
+                    "status": "SOO",
+                    "branch_Id": 1,
+                    "siteCode": "UK",
+                    "coreProduct": false
+                }
+            ],
+            "supersession": [],
+            "language": 1,
+            "brand": {
+                "name": "Jaguar",
+                "logoUrl": ""
+            },
+            "type": {
+                "name": "Genuine",
+                "description": "Parts supplied by original manufacturer"
+            },
+            "recommendedPart": null,
+            "marketingNotes": null,
+            "nodeInfo": []
+        },
+        {
+            "url": "https://web-api.sngbarratt.com/UK/products/200dfe34-41bf-47f1-9703-6e9afe60f748",
+            "webProductGuid": "200dfe34-41bf-47f1-9703-6e9afe60f748",
+            "partNumber": "P_BD21320",
+            "title": "Door Skin LH",
+            "description": null,
+            "applicationList": "E-Type S1 3.8 DHC",
+            "groupedApplicationList": "{\"productId\":26968,\"languages\":[{\"languageId\":1,\"Families\":[{\"familyId\":3,\"title\":\"E-Type / XKE\",\"models\":[{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"}]}]},{\"languageId\":2,\"Families\":[{\"familyId\":3,\"title\":\"Type E / XKE\",\"models\":[{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"}]}]},{\"languageId\":3,\"Families\":[{\"familyId\":3,\"title\":\"XKE / E-Type\",\"models\":[{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"}]}]},{\"languageId\":4,\"Families\":[{\"familyId\":3,\"title\":\"E-Type / XKE\",\"models\":[{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"}]}]},{\"languageId\":5,\"Families\":[{\"familyId\":3,\"title\":\"XKE / E-Type\",\"models\":[{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"}]}]},{\"languageId\":6,\"Families\":[{\"familyId\":3,\"title\":\"E-Type / XKE\",\"models\":[{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"}]}]},{\"languageId\":7,\"Families\":[{\"familyId\":3,\"title\":\"E-Type / XKE\",\"models\":[{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"}]}]}]}",
+            "imageUrl": "https://cdn.sngbarratt.com/products/250/7e497988-1be6-476b-9685-010a6ff19b64.png",
+            "hasAlternatives": true,
+            "branchProducts": [
+                {
+                    "specialOffer": null,
+                    "id": "4dc86611-501c-4f38-966e-e8546f635920",
+                    "retailPrice": 301.14,
+                    "retailPriceWithTax": 361.37,
+                    "unitPrice": 301.14,
+                    "surcharge": 0,
+                    "surchargeWithTax": 0,
+                    "taxPrice": 361.37,
+                    "status": "LOW",
+                    "branch_Id": 1,
+                    "siteCode": "UK",
+                    "coreProduct": false
+                }
+            ],
+            "supersession": [],
+            "language": 1,
+            "brand": null,
+            "type": {
+                "name": "Aftermarket Reproduction Part",
+                "description": "High quality aftermarket/reproduction alternative."
+            },
+            "recommendedPart": null,
+            "marketingNotes": null,
+            "nodeInfo": []
+        },
+        {
+            "url": "https://web-api.sngbarratt.com/UK/products/0992568a-7b0d-4dc4-ad30-f9aad7b24658",
+            "webProductGuid": "0992568a-7b0d-4dc4-ad30-f9aad7b24658",
+            "partNumber": "P_BD21319",
+            "title": "Door Skin RH",
+            "description": null,
+            "applicationList": "E-Type S1 3.8 DHC",
+            "groupedApplicationList": "{\"productId\":26966,\"languages\":[{\"languageId\":1,\"Families\":[{\"familyId\":3,\"title\":\"E-Type / XKE\",\"models\":[{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"}]}]},{\"languageId\":2,\"Families\":[{\"familyId\":3,\"title\":\"Type E / XKE\",\"models\":[{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"}]}]},{\"languageId\":3,\"Families\":[{\"familyId\":3,\"title\":\"XKE / E-Type\",\"models\":[{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"}]}]},{\"languageId\":4,\"Families\":[{\"familyId\":3,\"title\":\"E-Type / XKE\",\"models\":[{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"}]}]},{\"languageId\":5,\"Families\":[{\"familyId\":3,\"title\":\"XKE / E-Type\",\"models\":[{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"}]}]},{\"languageId\":6,\"Families\":[{\"familyId\":3,\"title\":\"E-Type / XKE\",\"models\":[{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"}]}]},{\"languageId\":7,\"Families\":[{\"familyId\":3,\"title\":\"E-Type / XKE\",\"models\":[{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"}]}]}]}",
+            "imageUrl": "https://cdn.sngbarratt.com/products/250/111f51c8-3a5d-4fef-9eb3-4c3cdce2bfbd.png",
+            "hasAlternatives": true,
+            "branchProducts": [
+                {
+                    "specialOffer": null,
+                    "id": "b999898c-8b18-4e75-85b8-5721fc35f9a5",
+                    "retailPrice": 301.14,
+                    "retailPriceWithTax": 361.37,
+                    "unitPrice": 301.14,
+                    "surcharge": 0,
+                    "surchargeWithTax": 0,
+                    "taxPrice": 361.37,
+                    "status": "LOW",
+                    "branch_Id": 1,
+                    "siteCode": "UK",
+                    "coreProduct": false
+                }
+            ],
+            "supersession": [],
+            "language": 1,
+            "brand": null,
+            "type": {
+                "name": "Aftermarket Reproduction Part",
+                "description": "High quality aftermarket/reproduction alternative."
+            },
+            "recommendedPart": null,
+            "marketingNotes": null,
+            "nodeInfo": []
+        },
+        {
+            "url": "https://web-api.sngbarratt.com/UK/products/b21a2eca-a05e-4b62-9b57-794e24852cd2",
+            "webProductGuid": "b21a2eca-a05e-4b62-9b57-794e24852cd2",
+            "partNumber": "P_SNG014RH",
+            "title": "Full Floorpan Assembly without Radius Arm Cup - Right Hand",
+            "description": "Full front/rear floorpan assembly without radius arm cup, right hand - short wheel base footwell models",
+            "applicationList": "E-Type S2 FHC|E-Type S1 4.2 DHC|E-Type S2 DHC|E-Type S1.5 DHC|E-Type S1.5 FHC|E-Type S1 3.8 DHC|E-Type S1 4.2 FHC|E-Type S1 3.8 FHC",
+            "groupedApplicationList": "{ \"productId\": 262311, \"languages\": [{ \"languageId\": 1, \"Families\": [{ \"familyId\":3,\"title\": \"E-Type / XKE\",\"models\": [{ \"modelId\":75, \"title\": \"E-Type S1.5 FHC\" },{ \"modelId\":76, \"title\": \"E-Type S1.5 DHC\" },{ \"modelId\":79, \"title\": \"E-Type S1 3.8 DHC\" },{ \"modelId\":80, \"title\": \"E-Type S1 3.8 FHC\" },{ \"modelId\":81, \"title\": \"E-Type S1 4.2 DHC\" },{ \"modelId\":82, \"title\": \"E-Type S1 4.2 FHC\" },{ \"modelId\":83, \"title\": \"E-Type S2 DHC\" },{ \"modelId\":84, \"title\": \"E-Type S2 FHC\" }]}]} ,{ \"languageId\": 7, \"Families\": [{ \"familyId\":3,\"title\": \"E-Type / XKE\",\"models\": [{ \"modelId\":75, \"title\": \"E-Type S1.5 FHC\" },{ \"modelId\":76, \"title\": \"E-Type S1.5 DHC\" },{ \"modelId\":79, \"title\": \"E-Type S1 3.8 DHC\" },{ \"modelId\":80, \"title\": \"E-Type S1 3.8 FHC\" },{ \"modelId\":81, \"title\": \"E-Type S1 4.2 DHC\" },{ \"modelId\":82, \"title\": \"E-Type S1 4.2 FHC\" },{ \"modelId\":83, \"title\": \"E-Type S2 DHC\" },{ \"modelId\":84, \"title\": \"E-Type S2 FHC\" }]}]} ,{ \"languageId\": 2, \"Families\": [{ \"familyId\":3,\"title\": \"Type E / XKE\",\"models\": [{ \"modelId\":75, \"title\": \"E-Type S1.5 FHC\" },{ \"modelId\":76, \"title\": \"E-Type S1.5 DHC\" },{ \"modelId\":79, \"title\": \"E-Type S1 3.8 DHC\" },{ \"modelId\":80, \"title\": \"E-Type S1 3.8 FHC\" },{ \"modelId\":81, \"title\": \"E-Type S1 4.2 DHC\" },{ \"modelId\":82, \"title\": \"E-Type S1 4.2 FHC\" },{ \"modelId\":83, \"title\": \"E-Type S2 DHC\" },{ \"modelId\":84, \"title\": \"E-Type S2 FHC\" }]}]} ,{ \"languageId\": 3, \"Families\": [{ \"familyId\":3,\"title\": \"XKE / E-Type\",\"models\": [{ \"modelId\":75, \"title\": \"E-Type S1.5 FHC\" },{ \"modelId\":76, \"title\": \"E-Type S1.5 DHC\" },{ \"modelId\":79, \"title\": \"E-Type S1 3.8 DHC\" },{ \"modelId\":80, \"title\": \"E-Type S1 3.8 FHC\" },{ \"modelId\":81, \"title\": \"E-Type S1 4.2 DHC\" },{ \"modelId\":82, \"title\": \"E-Type S1 4.2 FHC\" },{ \"modelId\":83, \"title\": \"E-Type S2 DHC\" },{ \"modelId\":84, \"title\": \"E-Type S2 FHC\" }]}]} ,{ \"languageId\": 4, \"Families\": [{ \"familyId\":3,\"title\": \"E-Type / XKE\",\"models\": [{ \"modelId\":75, \"title\": \"E-Type S1.5 FHC\" },{ \"modelId\":76, \"title\": \"E-Type S1.5 DHC\" },{ \"modelId\":79, \"title\": \"E-Type S1 3.8 DHC\" },{ \"modelId\":80, \"title\": \"E-Type S1 3.8 FHC\" },{ \"modelId\":81, \"title\": \"E-Type S1 4.2 DHC\" },{ \"modelId\":82, \"title\": \"E-Type S1 4.2 FHC\" },{ \"modelId\":83, \"title\": \"E-Type S2 DHC\" },{ \"modelId\":84, \"title\": \"E-Type S2 FHC\" }]}]} ,{ \"languageId\": 6, \"Families\": [{ \"familyId\":3,\"title\": \"E-Type / XKE\",\"models\": [{ \"modelId\":75, \"title\": \"E-Type S1.5 FHC\" },{ \"modelId\":76, \"title\": \"E-Type S1.5 DHC\" },{ \"modelId\":79, \"title\": \"E-Type S1 3.8 DHC\" },{ \"modelId\":80, \"title\": \"E-Type S1 3.8 FHC\" },{ \"modelId\":81, \"title\": \"E-Type S1 4.2 DHC\" },{ \"modelId\":82, \"title\": \"E-Type S1 4.2 FHC\" },{ \"modelId\":83, \"title\": \"E-Type S2 DHC\" },{ \"modelId\":84, \"title\": \"E-Type S2 FHC\" }]}]} ,{ \"languageId\": 5, \"Families\": [{ \"familyId\":3,\"title\": \"XKE / E-Type\",\"models\": [{ \"modelId\":75, \"title\": \"E-Type S1.5 FHC\" },{ \"modelId\":76, \"title\": \"E-Type S1.5 DHC\" },{ \"modelId\":79, \"title\": \"E-Type S1 3.8 DHC\" },{ \"modelId\":80, \"title\": \"E-Type S1 3.8 FHC\" },{ \"modelId\":81, \"title\": \"E-Type S1 4.2 DHC\" },{ \"modelId\":82, \"title\": \"E-Type S1 4.2 FHC\" },{ \"modelId\":83, \"title\": \"E-Type S2 DHC\" },{ \"modelId\":84, \"title\": \"E-Type S2 FHC\" }]}]} ]}",
+            "imageUrl": "https://cdn.sngbarratt.com/products/250/e1fe6419-5e72-4c1a-9803-3c53445ce5d1.png",
+            "hasAlternatives": false,
+            "branchProducts": [
+                {
+                    "specialOffer": null,
+                    "id": "0533d1c9-ea50-4e54-887a-f50235b60085",
+                    "retailPrice": 212.72,
+                    "retailPriceWithTax": 255.26,
+                    "unitPrice": 212.72,
+                    "surcharge": 0,
+                    "surchargeWithTax": 0,
+                    "taxPrice": 255.26,
+                    "status": "STK",
+                    "branch_Id": 1,
+                    "siteCode": "UK",
+                    "coreProduct": false
+                }
+            ],
+            "supersession": [],
+            "language": 1,
+            "brand": {
+                "name": "SNG Barratt",
+                "logoUrl": "https://cdn.sngbarratt.com/images/providers/madebysng.png"
+            },
+            "type": {
+                "name": "Premium Aftermarket",
+                "description": "Premium Aftermarket"
+            },
+            "recommendedPart": null,
+            "marketingNotes": null,
+            "nodeInfo": []
+        },
+        {
+            "url": "https://web-api.sngbarratt.com/UK/products/3de59b4f-c495-4d67-9ee5-2a73bcf2960d",
+            "webProductGuid": "3de59b4f-c495-4d67-9ee5-2a73bcf2960d",
+            "partNumber": "P_SNG014/73ALH",
+            "title": "Full Floorpan Assembly inc Radius Arm Cup - Left Hand",
+            "description": "Full front/rear floorpan assembly including radius arm cup, left hand - short wheel base footwell models",
+            "applicationList": "E-Type S1 3.8 DHC|E-Type S1 3.8 FHC|E-Type S1 4.2 DHC|E-Type S1 4.2 FHC|E-Type S1.5 DHC|E-Type S1.5 FHC|E-Type S2 DHC|E-Type S2 FHC",
+            "groupedApplicationList": "{\"productId\":262308,\"languages\":[{\"languageId\":1,\"Families\":[{\"familyId\":3,\"title\":\"E-Type / XKE\",\"models\":[{\"modelId\":75,\"title\":\"E-Type S1.5 FHC\"},{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"},{\"modelId\":82,\"title\":\"E-Type S1 4.2 FHC\"},{\"modelId\":83,\"title\":\"E-Type S2 DHC\"},{\"modelId\":84,\"title\":\"E-Type S2 FHC\"}]}]},{\"languageId\":2,\"Families\":[{\"familyId\":3,\"title\":\"Type E / XKE\",\"models\":[{\"modelId\":75,\"title\":\"E-Type S1.5 FHC\"},{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"},{\"modelId\":82,\"title\":\"E-Type S1 4.2 FHC\"},{\"modelId\":83,\"title\":\"E-Type S2 DHC\"},{\"modelId\":84,\"title\":\"E-Type S2 FHC\"}]}]},{\"languageId\":3,\"Families\":[{\"familyId\":3,\"title\":\"XKE / E-Type\",\"models\":[{\"modelId\":75,\"title\":\"E-Type S1.5 FHC\"},{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"},{\"modelId\":82,\"title\":\"E-Type S1 4.2 FHC\"},{\"modelId\":83,\"title\":\"E-Type S2 DHC\"},{\"modelId\":84,\"title\":\"E-Type S2 FHC\"}]}]},{\"languageId\":4,\"Families\":[{\"familyId\":3,\"title\":\"E-Type / XKE\",\"models\":[{\"modelId\":75,\"title\":\"E-Type S1.5 FHC\"},{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"},{\"modelId\":82,\"title\":\"E-Type S1 4.2 FHC\"},{\"modelId\":83,\"title\":\"E-Type S2 DHC\"},{\"modelId\":84,\"title\":\"E-Type S2 FHC\"}]}]},{\"languageId\":5,\"Families\":[{\"familyId\":3,\"title\":\"XKE / E-Type\",\"models\":[{\"modelId\":75,\"title\":\"E-Type S1.5 FHC\"},{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"},{\"modelId\":82,\"title\":\"E-Type S1 4.2 FHC\"},{\"modelId\":83,\"title\":\"E-Type S2 DHC\"},{\"modelId\":84,\"title\":\"E-Type S2 FHC\"}]}]},{\"languageId\":6,\"Families\":[{\"familyId\":3,\"title\":\"E-Type / XKE\",\"models\":[{\"modelId\":75,\"title\":\"E-Type S1.5 FHC\"},{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"},{\"modelId\":82,\"title\":\"E-Type S1 4.2 FHC\"},{\"modelId\":83,\"title\":\"E-Type S2 DHC\"},{\"modelId\":84,\"title\":\"E-Type S2 FHC\"}]}]},{\"languageId\":7,\"Families\":[{\"familyId\":3,\"title\":\"E-Type / XKE\",\"models\":[{\"modelId\":75,\"title\":\"E-Type S1.5 FHC\"},{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"},{\"modelId\":82,\"title\":\"E-Type S1 4.2 FHC\"},{\"modelId\":83,\"title\":\"E-Type S2 DHC\"},{\"modelId\":84,\"title\":\"E-Type S2 FHC\"}]}]}]}",
+            "imageUrl": "https://cdn.sngbarratt.com/products/250/8ee5391c-7eda-4474-b7cf-c141fd216070.png",
+            "hasAlternatives": false,
+            "branchProducts": [
+                {
+                    "specialOffer": null,
+                    "id": "e1bfa16c-9969-4b56-b2be-97184b10dcc4",
+                    "retailPrice": 262.47,
+                    "retailPriceWithTax": 314.96,
+                    "unitPrice": 262.47,
+                    "surcharge": 0,
+                    "surchargeWithTax": 0,
+                    "taxPrice": 314.96,
+                    "status": "STK",
+                    "branch_Id": 1,
+                    "siteCode": "UK",
+                    "coreProduct": false
+                }
+            ],
+            "supersession": [],
+            "language": 1,
+            "brand": {
+                "name": "SNG Barratt",
+                "logoUrl": "https://cdn.sngbarratt.com/images/providers/madebysng.png"
+            },
+            "type": {
+                "name": "Premium Aftermarket",
+                "description": "Premium Aftermarket"
+            },
+            "recommendedPart": null,
+            "marketingNotes": "",
+            "nodeInfo": []
+        },
+        {
+            "url": "https://web-api.sngbarratt.com/UK/products/ce99d284-2c49-4710-81e7-79c8c5d713a0",
+            "webProductGuid": "ce99d284-2c49-4710-81e7-79c8c5d713a0",
+            "partNumber": "P_MRE015RH",
+            "title": "Inner Sill Panel RH",
+            "description": "Inner Sill Panel - Right Hand, SWB models",
+            "applicationList": "E-Type S1 3.8 DHC|E-Type S1 3.8 FHC",
+            "groupedApplicationList": "{ \"productId\": 140469, \"languages\": [{ \"languageId\": 3, \"Families\": [{ \"familyId\":3,\"title\": \"XKE / E-Type\",\"models\": [{ \"modelId\":79, \"title\": \"E-Type S1 3.8 DHC\" },{ \"modelId\":80, \"title\": \"E-Type S1 3.8 FHC\" }]}]} ,{ \"languageId\": 2, \"Families\": [{ \"familyId\":3,\"title\": \"Type E / XKE\",\"models\": [{ \"modelId\":79, \"title\": \"E-Type S1 3.8 DHC\" },{ \"modelId\":80, \"title\": \"E-Type S1 3.8 FHC\" }]}]} ,{ \"languageId\": 7, \"Families\": [{ \"familyId\":3,\"title\": \"E-Type / XKE\",\"models\": [{ \"modelId\":79, \"title\": \"E-Type S1 3.8 DHC\" },{ \"modelId\":80, \"title\": \"E-Type S1 3.8 FHC\" }]}]} ,{ \"languageId\": 1, \"Families\": [{ \"familyId\":3,\"title\": \"E-Type / XKE\",\"models\": [{ \"modelId\":79, \"title\": \"E-Type S1 3.8 DHC\" },{ \"modelId\":80, \"title\": \"E-Type S1 3.8 FHC\" }]}]} ,{ \"languageId\": 6, \"Families\": [{ \"familyId\":3,\"title\": \"E-Type / XKE\",\"models\": [{ \"modelId\":79, \"title\": \"E-Type S1 3.8 DHC\" },{ \"modelId\":80, \"title\": \"E-Type S1 3.8 FHC\" }]}]} ,{ \"languageId\": 5, \"Families\": [{ \"familyId\":3,\"title\": \"XKE / E-Type\",\"models\": [{ \"modelId\":79, \"title\": \"E-Type S1 3.8 DHC\" },{ \"modelId\":80, \"title\": \"E-Type S1 3.8 FHC\" }]}]} ,{ \"languageId\": 4, \"Families\": [{ \"familyId\":3,\"title\": \"E-Type / XKE\",\"models\": [{ \"modelId\":79, \"title\": \"E-Type S1 3.8 DHC\" },{ \"modelId\":80, \"title\": \"E-Type S1 3.8 FHC\" }]}]} ]}",
+            "imageUrl": "https://cdn.sngbarratt.com/products/250/0d0f6a28-2164-41a4-8c63-2999398f9941.png",
+            "hasAlternatives": false,
+            "branchProducts": [
+                {
+                    "specialOffer": null,
+                    "id": "7372f42a-f600-4844-b703-ef5779acdf4c",
+                    "retailPrice": 177.77,
+                    "retailPriceWithTax": 213.32,
+                    "unitPrice": 177.77,
+                    "surcharge": 0,
+                    "surchargeWithTax": 0,
+                    "taxPrice": 213.32,
+                    "status": "LOW",
+                    "branch_Id": 1,
+                    "siteCode": "UK",
+                    "coreProduct": false
+                }
+            ],
+            "supersession": [],
+            "language": 1,
+            "brand": null,
+            "type": {
+                "name": "Aftermarket Reproduction Part",
+                "description": "High quality aftermarket/reproduction alternative."
+            },
+            "recommendedPart": null,
+            "marketingNotes": null,
+            "nodeInfo": []
+        },
+        {
+            "url": "https://web-api.sngbarratt.com/UK/products/4017c930-80ad-4b0a-b446-1ed31cfa8631",
+            "webProductGuid": "4017c930-80ad-4b0a-b446-1ed31cfa8631",
+            "partNumber": "P_MRE015LH",
+            "title": "Inner Sill Panel LH",
+            "description": "Inner Sill Panel - Left Hand, SWB models",
+            "applicationList": "E-Type S1 3.8 FHC|E-Type S1 3.8 DHC",
+            "groupedApplicationList": "{ \"productId\": 140468, \"languages\": [{ \"languageId\": 1, \"Families\": [{ \"familyId\":3,\"title\": \"E-Type / XKE\",\"models\": [{ \"modelId\":79, \"title\": \"E-Type S1 3.8 DHC\" },{ \"modelId\":80, \"title\": \"E-Type S1 3.8 FHC\" }]}]} ,{ \"languageId\": 3, \"Families\": [{ \"familyId\":3,\"title\": \"XKE / E-Type\",\"models\": [{ \"modelId\":79, \"title\": \"E-Type S1 3.8 DHC\" },{ \"modelId\":80, \"title\": \"E-Type S1 3.8 FHC\" }]}]} ,{ \"languageId\": 4, \"Families\": [{ \"familyId\":3,\"title\": \"E-Type / XKE\",\"models\": [{ \"modelId\":79, \"title\": \"E-Type S1 3.8 DHC\" },{ \"modelId\":80, \"title\": \"E-Type S1 3.8 FHC\" }]}]} ,{ \"languageId\": 2, \"Families\": [{ \"familyId\":3,\"title\": \"Type E / XKE\",\"models\": [{ \"modelId\":79, \"title\": \"E-Type S1 3.8 DHC\" },{ \"modelId\":80, \"title\": \"E-Type S1 3.8 FHC\" }]}]} ,{ \"languageId\": 7, \"Families\": [{ \"familyId\":3,\"title\": \"E-Type / XKE\",\"models\": [{ \"modelId\":79, \"title\": \"E-Type S1 3.8 DHC\" },{ \"modelId\":80, \"title\": \"E-Type S1 3.8 FHC\" }]}]} ,{ \"languageId\": 6, \"Families\": [{ \"familyId\":3,\"title\": \"E-Type / XKE\",\"models\": [{ \"modelId\":79, \"title\": \"E-Type S1 3.8 DHC\" },{ \"modelId\":80, \"title\": \"E-Type S1 3.8 FHC\" }]}]} ,{ \"languageId\": 5, \"Families\": [{ \"familyId\":3,\"title\": \"XKE / E-Type\",\"models\": [{ \"modelId\":79, \"title\": \"E-Type S1 3.8 DHC\" },{ \"modelId\":80, \"title\": \"E-Type S1 3.8 FHC\" }]}]} ]}",
+            "imageUrl": "https://cdn.sngbarratt.com/products/250/af17da48-9a5a-4fd1-871b-6ea73661f0eb.png",
+            "hasAlternatives": false,
+            "branchProducts": [
+                {
+                    "specialOffer": null,
+                    "id": "d8605626-d7d1-4e80-85c5-67c1338469e1",
+                    "retailPrice": 177.77,
+                    "retailPriceWithTax": 213.32,
+                    "unitPrice": 177.77,
+                    "surcharge": 0,
+                    "surchargeWithTax": 0,
+                    "taxPrice": 213.32,
+                    "status": "LOW",
+                    "branch_Id": 1,
+                    "siteCode": "UK",
+                    "coreProduct": false
+                }
+            ],
+            "supersession": [],
+            "language": 1,
+            "brand": null,
+            "type": {
+                "name": "Aftermarket Reproduction Part",
+                "description": "High quality aftermarket/reproduction alternative."
+            },
+            "recommendedPart": null,
+            "marketingNotes": null,
+            "nodeInfo": []
+        },
+        {
+            "url": "https://web-api.sngbarratt.com/UK/products/d24586af-428e-4053-b15a-73a4a3063b43",
+            "webProductGuid": "d24586af-428e-4053-b15a-73a4a3063b43",
+            "partNumber": "P_BD20957",
+            "title": "Top Scuttle Panel Assembly",
+            "description": "Top Scuttle Panel Assembly",
+            "applicationList": "E-Type S1 3.8 DHC|E-Type S1 3.8 FHC|E-Type S1 4.2 DHC|E-Type S1 4.2 FHC|E-Type S1.5 2+2|E-Type S1.5 DHC|E-Type S1.5 FHC|E-Type S2 DHC|E-Type S2 FHC",
+            "groupedApplicationList": "{\"productId\":26846,\"languages\":[{\"languageId\":1,\"Families\":[{\"familyId\":3,\"title\":\"E-Type / XKE\",\"models\":[{\"modelId\":75,\"title\":\"E-Type S1.5 FHC\"},{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":78,\"title\":\"E-Type S1.5 2+2\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"},{\"modelId\":82,\"title\":\"E-Type S1 4.2 FHC\"},{\"modelId\":83,\"title\":\"E-Type S2 DHC\"},{\"modelId\":84,\"title\":\"E-Type S2 FHC\"}]}]},{\"languageId\":2,\"Families\":[{\"familyId\":3,\"title\":\"Type E / XKE\",\"models\":[{\"modelId\":75,\"title\":\"E-Type S1.5 FHC\"},{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":78,\"title\":\"E-Type S1.5 2+2\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"},{\"modelId\":82,\"title\":\"E-Type S1 4.2 FHC\"},{\"modelId\":83,\"title\":\"E-Type S2 DHC\"},{\"modelId\":84,\"title\":\"E-Type S2 FHC\"}]}]},{\"languageId\":3,\"Families\":[{\"familyId\":3,\"title\":\"XKE / E-Type\",\"models\":[{\"modelId\":75,\"title\":\"E-Type S1.5 FHC\"},{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":78,\"title\":\"E-Type S1.5 2+2\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"},{\"modelId\":82,\"title\":\"E-Type S1 4.2 FHC\"},{\"modelId\":83,\"title\":\"E-Type S2 DHC\"},{\"modelId\":84,\"title\":\"E-Type S2 FHC\"}]}]},{\"languageId\":4,\"Families\":[{\"familyId\":3,\"title\":\"E-Type / XKE\",\"models\":[{\"modelId\":75,\"title\":\"E-Type S1.5 FHC\"},{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":78,\"title\":\"E-Type S1.5 2+2\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"},{\"modelId\":82,\"title\":\"E-Type S1 4.2 FHC\"},{\"modelId\":83,\"title\":\"E-Type S2 DHC\"},{\"modelId\":84,\"title\":\"E-Type S2 FHC\"}]}]},{\"languageId\":5,\"Families\":[{\"familyId\":3,\"title\":\"XKE / E-Type\",\"models\":[{\"modelId\":75,\"title\":\"E-Type S1.5 FHC\"},{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":78,\"title\":\"E-Type S1.5 2+2\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"},{\"modelId\":82,\"title\":\"E-Type S1 4.2 FHC\"},{\"modelId\":83,\"title\":\"E-Type S2 DHC\"},{\"modelId\":84,\"title\":\"E-Type S2 FHC\"}]}]},{\"languageId\":6,\"Families\":[{\"familyId\":3,\"title\":\"E-Type / XKE\",\"models\":[{\"modelId\":75,\"title\":\"E-Type S1.5 FHC\"},{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":78,\"title\":\"E-Type S1.5 2+2\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"},{\"modelId\":82,\"title\":\"E-Type S1 4.2 FHC\"},{\"modelId\":83,\"title\":\"E-Type S2 DHC\"},{\"modelId\":84,\"title\":\"E-Type S2 FHC\"}]}]},{\"languageId\":7,\"Families\":[{\"familyId\":3,\"title\":\"E-Type / XKE\",\"models\":[{\"modelId\":75,\"title\":\"E-Type S1.5 FHC\"},{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":78,\"title\":\"E-Type S1.5 2+2\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"},{\"modelId\":82,\"title\":\"E-Type S1 4.2 FHC\"},{\"modelId\":83,\"title\":\"E-Type S2 DHC\"},{\"modelId\":84,\"title\":\"E-Type S2 FHC\"}]}]}]}",
+            "imageUrl": "https://cdn.sngbarratt.com/products/250/ebb402d9-81bc-42d0-9e1d-9026b33fa603.png",
+            "hasAlternatives": false,
+            "branchProducts": [
+                {
+                    "specialOffer": null,
+                    "id": "f23505f6-5fec-4971-aba3-8b45be1ba0ec",
+                    "retailPrice": 1200,
+                    "retailPriceWithTax": 1440,
+                    "unitPrice": 1200,
+                    "surcharge": 0,
+                    "surchargeWithTax": 0,
+                    "taxPrice": 1440,
+                    "status": "SOO",
+                    "branch_Id": 1,
+                    "siteCode": "UK",
+                    "coreProduct": false
+                }
+            ],
+            "supersession": [],
+            "language": 1,
+            "brand": null,
+            "type": {
+                "name": "Aftermarket Reproduction Part",
+                "description": "High quality aftermarket/reproduction alternative."
+            },
+            "recommendedPart": null,
+            "marketingNotes": null,
+            "nodeInfo": []
+        },
+        {
+            "url": "https://web-api.sngbarratt.com/UK/products/ffe4aaa1-7bad-48cd-a0e5-176aee0d4661",
+            "webProductGuid": "ffe4aaa1-7bad-48cd-a0e5-176aee0d4661",
+            "partNumber": "P_SNG012RH",
+            "title": "Front Floor Section - Right Hand",
+            "description": "Front floor repair section, right hand - short wheel base footwell models",
+            "applicationList": "E-Type S1 4.2 FHC|E-Type S1 3.8 DHC|E-Type S1.5 DHC|E-Type S2 FHC|E-Type S1 3.8 FHC|E-Type S1 4.2 DHC|E-Type S2 DHC|E-Type S1.5 FHC",
+            "groupedApplicationList": "{ \"productId\": 262302, \"languages\": [{ \"languageId\": 1, \"Families\": [{ \"familyId\":3,\"title\": \"E-Type / XKE\",\"models\": [{ \"modelId\":75, \"title\": \"E-Type S1.5 FHC\" },{ \"modelId\":76, \"title\": \"E-Type S1.5 DHC\" },{ \"modelId\":79, \"title\": \"E-Type S1 3.8 DHC\" },{ \"modelId\":80, \"title\": \"E-Type S1 3.8 FHC\" },{ \"modelId\":81, \"title\": \"E-Type S1 4.2 DHC\" },{ \"modelId\":82, \"title\": \"E-Type S1 4.2 FHC\" },{ \"modelId\":83, \"title\": \"E-Type S2 DHC\" },{ \"modelId\":84, \"title\": \"E-Type S2 FHC\" }]}]} ,{ \"languageId\": 3, \"Families\": [{ \"familyId\":3,\"title\": \"XKE / E-Type\",\"models\": [{ \"modelId\":75, \"title\": \"E-Type S1.5 FHC\" },{ \"modelId\":76, \"title\": \"E-Type S1.5 DHC\" },{ \"modelId\":79, \"title\": \"E-Type S1 3.8 DHC\" },{ \"modelId\":80, \"title\": \"E-Type S1 3.8 FHC\" },{ \"modelId\":81, \"title\": \"E-Type S1 4.2 DHC\" },{ \"modelId\":82, \"title\": \"E-Type S1 4.2 FHC\" },{ \"modelId\":83, \"title\": \"E-Type S2 DHC\" },{ \"modelId\":84, \"title\": \"E-Type S2 FHC\" }]}]} ,{ \"languageId\": 4, \"Families\": [{ \"familyId\":3,\"title\": \"E-Type / XKE\",\"models\": [{ \"modelId\":75, \"title\": \"E-Type S1.5 FHC\" },{ \"modelId\":76, \"title\": \"E-Type S1.5 DHC\" },{ \"modelId\":79, \"title\": \"E-Type S1 3.8 DHC\" },{ \"modelId\":80, \"title\": \"E-Type S1 3.8 FHC\" },{ \"modelId\":81, \"title\": \"E-Type S1 4.2 DHC\" },{ \"modelId\":82, \"title\": \"E-Type S1 4.2 FHC\" },{ \"modelId\":83, \"title\": \"E-Type S2 DHC\" },{ \"modelId\":84, \"title\": \"E-Type S2 FHC\" }]}]} ,{ \"languageId\": 2, \"Families\": [{ \"familyId\":3,\"title\": \"Type E / XKE\",\"models\": [{ \"modelId\":75, \"title\": \"E-Type S1.5 FHC\" },{ \"modelId\":76, \"title\": \"E-Type S1.5 DHC\" },{ \"modelId\":79, \"title\": \"E-Type S1 3.8 DHC\" },{ \"modelId\":80, \"title\": \"E-Type S1 3.8 FHC\" },{ \"modelId\":81, \"title\": \"E-Type S1 4.2 DHC\" },{ \"modelId\":82, \"title\": \"E-Type S1 4.2 FHC\" },{ \"modelId\":83, \"title\": \"E-Type S2 DHC\" },{ \"modelId\":84, \"title\": \"E-Type S2 FHC\" }]}]} ,{ \"languageId\": 7, \"Families\": [{ \"familyId\":3,\"title\": \"E-Type / XKE\",\"models\": [{ \"modelId\":75, \"title\": \"E-Type S1.5 FHC\" },{ \"modelId\":76, \"title\": \"E-Type S1.5 DHC\" },{ \"modelId\":79, \"title\": \"E-Type S1 3.8 DHC\" },{ \"modelId\":80, \"title\": \"E-Type S1 3.8 FHC\" },{ \"modelId\":81, \"title\": \"E-Type S1 4.2 DHC\" },{ \"modelId\":82, \"title\": \"E-Type S1 4.2 FHC\" },{ \"modelId\":83, \"title\": \"E-Type S2 DHC\" },{ \"modelId\":84, \"title\": \"E-Type S2 FHC\" }]}]} ,{ \"languageId\": 6, \"Families\": [{ \"familyId\":3,\"title\": \"E-Type / XKE\",\"models\": [{ \"modelId\":75, \"title\": \"E-Type S1.5 FHC\" },{ \"modelId\":76, \"title\": \"E-Type S1.5 DHC\" },{ \"modelId\":79, \"title\": \"E-Type S1 3.8 DHC\" },{ \"modelId\":80, \"title\": \"E-Type S1 3.8 FHC\" },{ \"modelId\":81, \"title\": \"E-Type S1 4.2 DHC\" },{ \"modelId\":82, \"title\": \"E-Type S1 4.2 FHC\" },{ \"modelId\":83, \"title\": \"E-Type S2 DHC\" },{ \"modelId\":84, \"title\": \"E-Type S2 FHC\" }]}]} ,{ \"languageId\": 5, \"Families\": [{ \"familyId\":3,\"title\": \"XKE / E-Type\",\"models\": [{ \"modelId\":75, \"title\": \"E-Type S1.5 FHC\" },{ \"modelId\":76, \"title\": \"E-Type S1.5 DHC\" },{ \"modelId\":79, \"title\": \"E-Type S1 3.8 DHC\" },{ \"modelId\":80, \"title\": \"E-Type S1 3.8 FHC\" },{ \"modelId\":81, \"title\": \"E-Type S1 4.2 DHC\" },{ \"modelId\":82, \"title\": \"E-Type S1 4.2 FHC\" },{ \"modelId\":83, \"title\": \"E-Type S2 DHC\" },{ \"modelId\":84, \"title\": \"E-Type S2 FHC\" }]}]} ]}",
+            "imageUrl": "https://cdn.sngbarratt.com/products/250/974fe4f4-5421-432f-ac70-a8734fb29e77.png",
+            "hasAlternatives": false,
+            "branchProducts": [
+                {
+                    "specialOffer": null,
+                    "id": "51c5b350-7ff1-4c91-822a-5d0f7533c572",
+                    "retailPrice": 84.52,
+                    "retailPriceWithTax": 101.42,
+                    "unitPrice": 84.52,
+                    "surcharge": 0,
+                    "surchargeWithTax": 0,
+                    "taxPrice": 101.42,
+                    "status": "STK",
+                    "branch_Id": 1,
+                    "siteCode": "UK",
+                    "coreProduct": false
+                }
+            ],
+            "supersession": [],
+            "language": 1,
+            "brand": {
+                "name": "SNG Barratt",
+                "logoUrl": "https://cdn.sngbarratt.com/images/providers/madebysng.png"
+            },
+            "type": {
+                "name": "Premium Aftermarket",
+                "description": "Premium Aftermarket"
+            },
+            "recommendedPart": null,
+            "marketingNotes": null,
+            "nodeInfo": []
+        },
+        {
+            "url": "https://web-api.sngbarratt.com/UK/products/d0bc80a0-dbd2-46db-acb1-4fc27490239d",
+            "webProductGuid": "d0bc80a0-dbd2-46db-acb1-4fc27490239d",
+            "partNumber": "P_SNG012LH",
+            "title": "Front Floor Section - Left Hand",
+            "description": "Front floor repair section, left hand - short wheel base footwell models",
+            "applicationList": "E-Type S2 DHC|E-Type S1.5 DHC|E-Type S2 FHC|E-Type S1 4.2 DHC|E-Type S1.5 FHC|E-Type S1 3.8 FHC|E-Type S1 4.2 FHC|E-Type S1 3.8 DHC",
+            "groupedApplicationList": "{ \"productId\": 262303, \"languages\": [{ \"languageId\": 2, \"Families\": [{ \"familyId\":3,\"title\": \"Type E / XKE\",\"models\": [{ \"modelId\":75, \"title\": \"E-Type S1.5 FHC\" },{ \"modelId\":76, \"title\": \"E-Type S1.5 DHC\" },{ \"modelId\":79, \"title\": \"E-Type S1 3.8 DHC\" },{ \"modelId\":80, \"title\": \"E-Type S1 3.8 FHC\" },{ \"modelId\":81, \"title\": \"E-Type S1 4.2 DHC\" },{ \"modelId\":82, \"title\": \"E-Type S1 4.2 FHC\" },{ \"modelId\":83, \"title\": \"E-Type S2 DHC\" },{ \"modelId\":84, \"title\": \"E-Type S2 FHC\" }]}]} ,{ \"languageId\": 7, \"Families\": [{ \"familyId\":3,\"title\": \"E-Type / XKE\",\"models\": [{ \"modelId\":75, \"title\": \"E-Type S1.5 FHC\" },{ \"modelId\":76, \"title\": \"E-Type S1.5 DHC\" },{ \"modelId\":79, \"title\": \"E-Type S1 3.8 DHC\" },{ \"modelId\":80, \"title\": \"E-Type S1 3.8 FHC\" },{ \"modelId\":81, \"title\": \"E-Type S1 4.2 DHC\" },{ \"modelId\":82, \"title\": \"E-Type S1 4.2 FHC\" },{ \"modelId\":83, \"title\": \"E-Type S2 DHC\" },{ \"modelId\":84, \"title\": \"E-Type S2 FHC\" }]}]} ,{ \"languageId\": 1, \"Families\": [{ \"familyId\":3,\"title\": \"E-Type / XKE\",\"models\": [{ \"modelId\":75, \"title\": \"E-Type S1.5 FHC\" },{ \"modelId\":76, \"title\": \"E-Type S1.5 DHC\" },{ \"modelId\":79, \"title\": \"E-Type S1 3.8 DHC\" },{ \"modelId\":80, \"title\": \"E-Type S1 3.8 FHC\" },{ \"modelId\":81, \"title\": \"E-Type S1 4.2 DHC\" },{ \"modelId\":82, \"title\": \"E-Type S1 4.2 FHC\" },{ \"modelId\":83, \"title\": \"E-Type S2 DHC\" },{ \"modelId\":84, \"title\": \"E-Type S2 FHC\" }]}]} ,{ \"languageId\": 3, \"Families\": [{ \"familyId\":3,\"title\": \"XKE / E-Type\",\"models\": [{ \"modelId\":75, \"title\": \"E-Type S1.5 FHC\" },{ \"modelId\":76, \"title\": \"E-Type S1.5 DHC\" },{ \"modelId\":79, \"title\": \"E-Type S1 3.8 DHC\" },{ \"modelId\":80, \"title\": \"E-Type S1 3.8 FHC\" },{ \"modelId\":81, \"title\": \"E-Type S1 4.2 DHC\" },{ \"modelId\":82, \"title\": \"E-Type S1 4.2 FHC\" },{ \"modelId\":83, \"title\": \"E-Type S2 DHC\" },{ \"modelId\":84, \"title\": \"E-Type S2 FHC\" }]}]} ,{ \"languageId\": 5, \"Families\": [{ \"familyId\":3,\"title\": \"XKE / E-Type\",\"models\": [{ \"modelId\":75, \"title\": \"E-Type S1.5 FHC\" },{ \"modelId\":76, \"title\": \"E-Type S1.5 DHC\" },{ \"modelId\":79, \"title\": \"E-Type S1 3.8 DHC\" },{ \"modelId\":80, \"title\": \"E-Type S1 3.8 FHC\" },{ \"modelId\":81, \"title\": \"E-Type S1 4.2 DHC\" },{ \"modelId\":82, \"title\": \"E-Type S1 4.2 FHC\" },{ \"modelId\":83, \"title\": \"E-Type S2 DHC\" },{ \"modelId\":84, \"title\": \"E-Type S2 FHC\" }]}]} ,{ \"languageId\": 6, \"Families\": [{ \"familyId\":3,\"title\": \"E-Type / XKE\",\"models\": [{ \"modelId\":75, \"title\": \"E-Type S1.5 FHC\" },{ \"modelId\":76, \"title\": \"E-Type S1.5 DHC\" },{ \"modelId\":79, \"title\": \"E-Type S1 3.8 DHC\" },{ \"modelId\":80, \"title\": \"E-Type S1 3.8 FHC\" },{ \"modelId\":81, \"title\": \"E-Type S1 4.2 DHC\" },{ \"modelId\":82, \"title\": \"E-Type S1 4.2 FHC\" },{ \"modelId\":83, \"title\": \"E-Type S2 DHC\" },{ \"modelId\":84, \"title\": \"E-Type S2 FHC\" }]}]} ,{ \"languageId\": 4, \"Families\": [{ \"familyId\":3,\"title\": \"E-Type / XKE\",\"models\": [{ \"modelId\":75, \"title\": \"E-Type S1.5 FHC\" },{ \"modelId\":76, \"title\": \"E-Type S1.5 DHC\" },{ \"modelId\":79, \"title\": \"E-Type S1 3.8 DHC\" },{ \"modelId\":80, \"title\": \"E-Type S1 3.8 FHC\" },{ \"modelId\":81, \"title\": \"E-Type S1 4.2 DHC\" },{ \"modelId\":82, \"title\": \"E-Type S1 4.2 FHC\" },{ \"modelId\":83, \"title\": \"E-Type S2 DHC\" },{ \"modelId\":84, \"title\": \"E-Type S2 FHC\" }]}]} ]}",
+            "imageUrl": "https://cdn.sngbarratt.com/products/250/9ab98909-aa0b-43d3-b7d2-ad10d15c4a44.png",
+            "hasAlternatives": false,
+            "branchProducts": [
+                {
+                    "specialOffer": null,
+                    "id": "e981e543-4ee1-407f-9a35-a33b5fd7e50e",
+                    "retailPrice": 84.52,
+                    "retailPriceWithTax": 101.42,
+                    "unitPrice": 84.52,
+                    "surcharge": 0,
+                    "surchargeWithTax": 0,
+                    "taxPrice": 101.42,
+                    "status": "STK",
+                    "branch_Id": 1,
+                    "siteCode": "UK",
+                    "coreProduct": false
+                }
+            ],
+            "supersession": [],
+            "language": 1,
+            "brand": {
+                "name": "SNG Barratt",
+                "logoUrl": "https://cdn.sngbarratt.com/images/providers/madebysng.png"
+            },
+            "type": {
+                "name": "Premium Aftermarket",
+                "description": "Premium Aftermarket"
+            },
+            "recommendedPart": null,
+            "marketingNotes": null,
+            "nodeInfo": []
+        },
+        {
+            "url": "https://web-api.sngbarratt.com/UK/products/7d696cc7-e6c2-4473-981d-6171b0f89f9f",
+            "webProductGuid": "7d696cc7-e6c2-4473-981d-6171b0f89f9f",
+            "partNumber": "P_BD19681",
+            "title": "Rear Bulkhead Panel",
+            "description": null,
+            "applicationList": "E-Type S2 DHC|E-Type S1 3.8 DHC|E-Type S1 4.2 DHC",
+            "groupedApplicationList": "{ \"productId\": 26163, \"languages\": [{ \"languageId\": 2, \"Families\": [{ \"familyId\":3,\"title\": \"Type E / XKE\",\"models\": [{ \"modelId\":79, \"title\": \"E-Type S1 3.8 DHC\" },{ \"modelId\":81, \"title\": \"E-Type S1 4.2 DHC\" },{ \"modelId\":83, \"title\": \"E-Type S2 DHC\" }]}]} ,{ \"languageId\": 3, \"Families\": [{ \"familyId\":3,\"title\": \"XKE / E-Type\",\"models\": [{ \"modelId\":79, \"title\": \"E-Type S1 3.8 DHC\" },{ \"modelId\":81, \"title\": \"E-Type S1 4.2 DHC\" },{ \"modelId\":83, \"title\": \"E-Type S2 DHC\" }]}]} ,{ \"languageId\": 1, \"Families\": [{ \"familyId\":3,\"title\": \"E-Type / XKE\",\"models\": [{ \"modelId\":79, \"title\": \"E-Type S1 3.8 DHC\" },{ \"modelId\":81, \"title\": \"E-Type S1 4.2 DHC\" },{ \"modelId\":83, \"title\": \"E-Type S2 DHC\" }]}]} ,{ \"languageId\": 4, \"Families\": [{ \"familyId\":3,\"title\": \"E-Type / XKE\",\"models\": [{ \"modelId\":79, \"title\": \"E-Type S1 3.8 DHC\" },{ \"modelId\":81, \"title\": \"E-Type S1 4.2 DHC\" },{ \"modelId\":83, \"title\": \"E-Type S2 DHC\" }]}]} ,{ \"languageId\": 5, \"Families\": [{ \"familyId\":3,\"title\": \"XKE / E-Type\",\"models\": [{ \"modelId\":79, \"title\": \"E-Type S1 3.8 DHC\" },{ \"modelId\":81, \"title\": \"E-Type S1 4.2 DHC\" },{ \"modelId\":83, \"title\": \"E-Type S2 DHC\" }]}]} ,{ \"languageId\": 6, \"Families\": [{ \"familyId\":3,\"title\": \"E-Type / XKE\",\"models\": [{ \"modelId\":79, \"title\": \"E-Type S1 3.8 DHC\" },{ \"modelId\":81, \"title\": \"E-Type S1 4.2 DHC\" },{ \"modelId\":83, \"title\": \"E-Type S2 DHC\" }]}]} ,{ \"languageId\": 7, \"Families\": [{ \"familyId\":3,\"title\": \"E-Type / XKE\",\"models\": [{ \"modelId\":79, \"title\": \"E-Type S1 3.8 DHC\" },{ \"modelId\":81, \"title\": \"E-Type S1 4.2 DHC\" },{ \"modelId\":83, \"title\": \"E-Type S2 DHC\" }]}]} ]}",
+            "imageUrl": "https://cdn.sngbarratt.com/products/250/c54f566b-d95a-4a37-8dd5-7dd991b088d8.png",
+            "hasAlternatives": false,
+            "branchProducts": [
+                {
+                    "specialOffer": null,
+                    "id": "b36affed-808d-4444-bdc0-610b15b9d195",
+                    "retailPrice": 334.92,
+                    "retailPriceWithTax": 401.9,
+                    "unitPrice": 334.92,
+                    "surcharge": 0,
+                    "surchargeWithTax": 0,
+                    "taxPrice": 401.9,
+                    "status": "STK",
+                    "branch_Id": 1,
+                    "siteCode": "UK",
+                    "coreProduct": false
+                }
+            ],
+            "supersession": [],
+            "language": 1,
+            "brand": null,
+            "type": {
+                "name": "Aftermarket Reproduction Part",
+                "description": "High quality aftermarket/reproduction alternative."
+            },
+            "recommendedPart": null,
+            "marketingNotes": null,
+            "nodeInfo": []
+        },
+        {
+            "url": "https://web-api.sngbarratt.com/UK/products/f4398951-a608-4eaa-9235-df2d07159b73",
+            "webProductGuid": "f4398951-a608-4eaa-9235-df2d07159b73",
+            "partNumber": "P_BD15191",
+            "title": "Rear Wing RH",
+            "description": null,
+            "applicationList": "E-Type S1 3.8 DHC|E-Type S1 3.8 FHC|E-Type S1 4.2 DHC|E-Type S1.5 2+2|E-Type S1.5 DHC|E-Type S3 Roadster",
+            "groupedApplicationList": "{\"productId\":25190,\"languages\":[{\"languageId\":1,\"Families\":[{\"familyId\":3,\"title\":\"E-Type / XKE\",\"models\":[{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":78,\"title\":\"E-Type S1.5 2+2\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"},{\"modelId\":13,\"title\":\"E-Type S3 Roadster\"}]}]},{\"languageId\":2,\"Families\":[{\"familyId\":3,\"title\":\"Type E / XKE\",\"models\":[{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":78,\"title\":\"E-Type S1.5 2+2\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"},{\"modelId\":13,\"title\":\"E-Type S3 Roadster\"}]}]},{\"languageId\":3,\"Families\":[{\"familyId\":3,\"title\":\"XKE / E-Type\",\"models\":[{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":78,\"title\":\"E-Type S1.5 2+2\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"},{\"modelId\":13,\"title\":\"E-Type S3 Roadster\"}]}]},{\"languageId\":4,\"Families\":[{\"familyId\":3,\"title\":\"E-Type / XKE\",\"models\":[{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":78,\"title\":\"E-Type S1.5 2+2\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"},{\"modelId\":13,\"title\":\"E-Type S3 Roadster\"}]}]},{\"languageId\":5,\"Families\":[{\"familyId\":3,\"title\":\"XKE / E-Type\",\"models\":[{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":78,\"title\":\"E-Type S1.5 2+2\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"},{\"modelId\":13,\"title\":\"E-Type Roadster\"}]}]},{\"languageId\":6,\"Families\":[{\"familyId\":3,\"title\":\"E-Type / XKE\",\"models\":[{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":78,\"title\":\"E-Type S1.5 2+2\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"},{\"modelId\":13,\"title\":\"E-Type S3 Roadster\"}]}]},{\"languageId\":7,\"Families\":[{\"familyId\":3,\"title\":\"E-Type / XKE\",\"models\":[{\"modelId\":76,\"title\":\"E-Type S1.5 DHC\"},{\"modelId\":78,\"title\":\"E-Type S1.5 2+2\"},{\"modelId\":79,\"title\":\"E-Type S1 3.8 DHC\"},{\"modelId\":80,\"title\":\"E-Type S1 3.8 FHC\"},{\"modelId\":81,\"title\":\"E-Type S1 4.2 DHC\"},{\"modelId\":13,\"title\":\"E-Type S3 Roadster\"}]}]}]}",
+            "imageUrl": "https://cdn.sngbarratt.com/products/250/d12bb025-dc49-4c73-9496-37b820a22bfc.png",
+            "hasAlternatives": true,
+            "branchProducts": [
+                {
+                    "specialOffer": null,
+                    "id": "ca6ba405-005d-479a-8e3a-ccbed9fd3c91",
+                    "retailPrice": 1534.59,
+                    "retailPriceWithTax": 1841.51,
+                    "unitPrice": 1534.59,
+                    "surcharge": 0,
+                    "surchargeWithTax": 0,
+                    "taxPrice": 1841.51,
+                    "status": "SOO",
+                    "branch_Id": 1,
+                    "siteCode": "UK",
+                    "coreProduct": false
+                }
+            ],
+            "supersession": [],
+            "language": 1,
+            "brand": {
+                "name": "Jaguar",
+                "logoUrl": ""
+            },
+            "type": {
+                "name": "Genuine",
+                "description": "Parts supplied by original manufacturer"
+            },
+            "recommendedPart": null,
+            "marketingNotes": null,
+            "nodeInfo": []
+        }
+    ],
+    "prevPageUrl": "",
+    "nextPageUrl": "https://web-api.sngbarratt.com/UK/catalogues/findPartsApi/3/models/79/products?language=EN&categoryId=15512&minPrice=0&maxPrice=0&sortOrder=Popularity&pageSize=20&pageNo=2",
+    "customData": null
+}
